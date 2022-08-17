@@ -105,38 +105,35 @@ member_count, ranking.
 
 **Sales Insights**
 
-Queries were conducted to answer questions from the Sales Team. View SQL queries and insights here.
-
-Questions from Sales Team:
+Queries were conducted to answer questions from the Sales Team. View SQL queries and insights [here](#1_sales_insights.sql).
 
 **Additional Insights**
 
 Additional questions were generated and corresponding queries were conducted after an examination of each table.
 
-View SQL queries and insights here.
+View SQL queries and insights [here](#2_additional_insights_updated.sql).
 
 # Part 2 - Ad Hoc Reports
 
 **Toastmaster Report**
 
-Queries were conducted to identify toastmaster events and gather information related to the events. View SQL queries here.
+Queries were conducted to identify toastmaster events and gather information related to the events. View SQL queries [here](#1_toastmaster.sql).
 
 **Growth Report**
 
-Queries were conducted to gather information for the Marketing Team related to the growth of the membership of LetsMeet. View SQL queries here.
+Queries were conducted to gather information for the Marketing Team related to the growth of the membership of LetsMeet. View SQL queries [here](#2_growth.sql).
 
 **Report on Featured Groups**
 
 Queries were conducted to answer questions from the Marketing Team about which groups were the most popular on LetsMeet. 
-View SQL queries here.
+View SQL queries [here](#3_feature_groups.sql).
 
 **Summary Report**
 
-A summary report with my findings was prepared based on the various queries carried out. View the report here.
+A summary report with my findings was prepared based on the various queries carried out. View the report [here](#4_summary_report.sql).
 
 # Part 3 - Database Normalization
 
 Normalization was carried out including the modification of tables by eliminating redundant or uninformative columns while preserving information. A strategy was developed to split tables to save storage space and time. Reverse engineering of the Entity Relationship Diagram was carried out to visualize the new database structure.
 
-View my queries and the new ERD here.
-
+View my queries and the new ERD [here](#Database%Normalization.sql). 
