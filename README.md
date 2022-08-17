@@ -136,4 +136,4 @@ A summary report with my findings was prepared based on the various queries carr
 
 Normalization was carried out including the modification of tables by eliminating redundant or uninformative columns while preserving information. A strategy was developed to split tables to save storage space and time. Reverse engineering of the Entity Relationship Diagram was carried out to visualize the new database structure.
 
-View my queries and the new ERD **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/blob/51384eb8b1d973602bae839a04f7d6e837d5dd36/Project,%20Part%203%20-%20Database%20Normalization/Database%20Normalization.sql)**. 
+View my queries and the new ERD **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/51384eb8b1d973602bae839a04f7d6e837d5dd36/Project%2C%20Part%203%20-%20Database%20Normalization)**. 
