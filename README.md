@@ -1,4 +1,7 @@
 # 🤝LetsMeet SQL Analytics Project
+
+![SQL Analytics Project - LetsMeet](https://user-images.githubusercontent.com/95842597/185241104-b7086b51-05be-4c9f-931f-88cd8263b096.png)
+
 ## Table of Contents
 - [Background](#background)
 - [The Data](#the-data)
