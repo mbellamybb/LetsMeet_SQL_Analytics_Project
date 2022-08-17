@@ -105,28 +105,28 @@ member_count, ranking.
 
 **Sales Insights**
 
-Queries were conducted to answer questions from the Sales Team. View SQL queries and insights [here](#1_sales_insights.sql).
+Queries were conducted to answer questions from the Sales Team. View SQL queries and insights **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/main/Project%2C%20Part%201%20-%20Data%20Impressions)**.
 
 **Additional Insights**
 
 Additional questions were generated and corresponding queries were conducted after an examination of each table.
 
-View SQL queries and insights [here](#2_additional_insights_updated.sql).
+View SQL queries and insights **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/main/Project%2C%20Part%201%20-%20Data%20Impressions)**.
 
 # Part 2 - Ad Hoc Reports
 
 **Toastmaster Report**
 
-Queries were conducted to identify toastmaster events and gather information related to the events. View SQL queries [here](#1_toastmaster.sql).
+Queries were conducted to identify toastmaster events and gather information related to the events. View SQL queries **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/main/Project%2C%20Part%202%20-%20Ad%20Hoc%20Reports)**.
 
 **Growth Report**
 
-Queries were conducted to gather information for the Marketing Team related to the growth of the membership of LetsMeet. View SQL queries [here](#2_growth.sql).
+Queries were conducted to gather information for the Marketing Team related to the growth of the membership of LetsMeet. View SQL queries **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/main/Project%2C%20Part%202%20-%20Ad%20Hoc%20Reports)**.
 
 **Report on Featured Groups**
 
 Queries were conducted to answer questions from the Marketing Team about which groups were the most popular on LetsMeet. 
-View SQL queries [here](#3_feature_groups.sql).
+View SQL queries **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/tree/main/Project%2C%20Part%202%20-%20Ad%20Hoc%20Reports)**.
 
 **Summary Report**
 
@@ -136,4 +136,4 @@ A summary report with my findings was prepared based on the various queries carr
 
 Normalization was carried out including the modification of tables by eliminating redundant or uninformative columns while preserving information. A strategy was developed to split tables to save storage space and time. Reverse engineering of the Entity Relationship Diagram was carried out to visualize the new database structure.
 
-View my queries and the new ERD [here](#Database%Normalization.sql). 
+View my queries and the new ERD **[here](https://github.com/mbellamybb/LetsMeet_SQL_Analytics_Project/blob/51384eb8b1d973602bae839a04f7d6e837d5dd36/Project,%20Part%203%20-%20Database%20Normalization/Database%20Normalization.sql)**. 
